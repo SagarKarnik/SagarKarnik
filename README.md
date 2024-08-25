@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SagarKarnik
 - 👩🏻‍💻 I am a Software Developer. Primaraly focused on C#.Net, Angular (typescript) and Azure.
 - 💞️ I’m looking to collaborate on anything in programming space that's exciting. 
-- ❤️ I desire to make an app that keeps reminding people to spread love.
+- ❤️ I desire to make an app that keeps reminding people to spread love and have fun.
 - 
 
 <!---
